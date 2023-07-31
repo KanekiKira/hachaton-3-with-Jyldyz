@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "email": "Abdyldaev@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "Jyldyz",
+      "email": "Jyldyzhan@gmail.com",
+      "password": "qwerty123",
+      "id": 2
+    },
+    {
+      "username": "KING",
+      "email": "king@gmail.com",
+      "password": "321654",
+      "id": 3
+    }
+  ],
+  "jobs": [
+    {
+      "url": "data:image/png;base64,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",
+      "title": "Front-End",
+      "salary": "2000",
+      "id": 2
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI",
+      "title": "Js",
+      "salary": "2000",
+      "id": 3
+    }
+  ]
+}
